@@ -1,5 +1,5 @@
-### 24.01.2020
-Include the date you created this project and README file.
+### Date created
+24.01.2020
 
 ### Python Bikeshare Analyzer
 Replace the Project Title
