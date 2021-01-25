@@ -2,10 +2,15 @@
 24.01.2020
 
 ### Python Bikeshare Analyzer
-Replace the Project Title
+A project about bike Data.
 
 ### Description
+<<<<<<< HEAD
 In this Project the we expolore data from bike sharing systems. It helps to understand the principles of python.
+=======
+Describe what your project is about and what it does
+This projekt was made as an example projekt
+>>>>>>> refactoring
 
 ### Files used
 bikeshare.py
