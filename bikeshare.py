@@ -124,6 +124,7 @@ def station_stats(df):
     start_time = time.time()
     
     # TO DO: display most commonly used start station
+    #prints the most used start station
     print('The most commonly used start station is: ',df['Start Station'].value_counts()[:1].index.tolist())
 
     # TO DO: display most commonly used end station
@@ -175,6 +176,7 @@ def user_stats(df, city):
 
     
     #perform the Gender and Birth count only if the city is new york or chicago. Washington does not have these columns
+    #without this method we would get an index error
     if city=='new york city' or city=='chicago':
         # TO DO: Display counts of gender
         print('Gender \n', df['Gender'].value_counts(), '\n')
