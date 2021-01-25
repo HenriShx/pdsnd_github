@@ -5,7 +5,7 @@
 Replace the Project Title
 
 ### Description
-In this Project the we expolore data from bike sharing systems.
+In this Project the we expolore data from bike sharing systems. It helps to understand the principles of python.
 
 ### Files used
 bikeshare.py
